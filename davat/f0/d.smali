@@ -1,0 +1,5 @@
+.class public interface abstract Lf0/d;
+.super Ljava/lang/Object;
+
+# interfaces
+.implements LT/a;
